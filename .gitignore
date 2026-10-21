@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Machine-specific VS Code settings (each person's Python path is different)
+.vscode/settings.json
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store

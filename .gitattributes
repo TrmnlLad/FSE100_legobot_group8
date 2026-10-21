@@ -1,0 +1,2 @@
+# Keep LF endings: main.py runs on the EV3 (Linux), and CRLF breaks its #! line
+* text=auto eol=lf

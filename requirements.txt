@@ -1,0 +1,4 @@
+# PC side (Client_control.py)
+pynput
+# Autocomplete/stubs for main.py; the real pybricks runs on the EV3 brick
+pybricks

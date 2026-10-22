@@ -2,6 +2,8 @@
 
 Our LEGO EV3 robot for FSE100. You drive it from a laptop keyboard over wifi.
 
+Team: Hector Gaxiola, Naomi Ayala, Tyler Huynh, Tyler Sunu
+
 main.py runs on the EV3 brick (pybricks micropython). It waits for a connection on port 12345 and drives the motors on ports C and D. The touch sensor kill switch goes on port 1. If it isn't plugged in the robot still drives.
 
 Client_control.py runs on the laptop and sends the key presses. Before running it, change EV3_IP to whatever IP the brick shows.
